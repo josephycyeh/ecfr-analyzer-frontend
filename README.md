@@ -14,7 +14,7 @@ A web application for analyzing and visualizing data from the Electronic Code of
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/josephycyeh/ecfr-analyzer-frontend.git
 cd eCFR
 ```
 
