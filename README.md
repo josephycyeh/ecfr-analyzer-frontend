@@ -3,10 +3,10 @@
 A web application for analyzing and visualizing data from the Electronic Code of Federal Regulations (eCFR). Built with React, TypeScript, Chakra UI, and ReCharts. The production app is hosted on Heroku at https://ecfr-frontend-1b42d1c0ad44.herokuapp.com
 
 ## Features
-- View stats for all federal agencies, including word counts and section counts
-- Deep dive into individual agencies to explore their child agencies and metrics
+- View stats for all federal agencies
+- Deep dive into individual agencies
 - Search and sorting functionality to find specific agencies
-- Top-level aggregate statistics across the eCFR
+- Top-level aggregate statistics across the CFR
 - Visualization of regulatory corrections trends over time
 - Responsive for optimal viewing on all screen sizes
 
