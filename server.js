@@ -11,8 +11,8 @@ const PORT = process.env.PORT || 3000;
 // Serve static files from the dist directory
 app.use(express.static('dist'));
 
-// Handle ALL routes for client-side routing
-app.get('/*', (req, res) => {
+// Handle client-side routing by serving index.html for all routes
+app.get('*', (req, res) => {
   res.sendFile(path.join(__dirname, 'dist', 'index.html'));
 });
 
