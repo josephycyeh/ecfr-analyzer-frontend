@@ -1,6 +1,6 @@
 # eCFR Analytics Dashboard
 
-A web application for analyzing and visualizing data from the Electronic Code of Federal Regulations (eCFR). Built with React, TypeScript, Chakra UI, and ReCharts.
+A web application for analyzing and visualizing data from the Electronic Code of Federal Regulations (eCFR). Built with React, TypeScript, Chakra UI, and ReCharts. The production app is hosted on Heroku at https://ecfr-frontend-1b42d1c0ad44.herokuapp.com
 
 ## Features
 - View stats for all federal agencies, including word counts and section counts
