@@ -116,9 +116,6 @@ const AgencyDetails = () => {
       <Flex direction="column" gap={3}>
         <Box>
           <Heading size="lg" mb={2}>Child Agencies</Heading>
-          <Text color="gray.400" fontSize={{ base: "sm", md: "md" }}>
-            Browse and manage child agencies
-          </Text>
         </Box>
 
         <Box mb={2}>

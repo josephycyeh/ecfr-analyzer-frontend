@@ -196,7 +196,7 @@ const Analytics = () => {
                   tickLine={{ stroke: '#A0AEC0' }}
                   axisLine={{ stroke: '#A0AEC0' }}
                   interval="preserveStartEnd"
-                  minTickGap={30}
+                  minTickGap={10}
                   padding={{ left: 0, right: 0 }}
                 />
                 <YAxis
