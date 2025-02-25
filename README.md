@@ -8,6 +8,7 @@ A web application for analyzing and visualizing data from the Electronic Code of
 - Search and sorting functionality to find specific agencies
 - Top-level aggregate statistics across the eCFR
 - Visualization of regulatory corrections trends over time
+- Responsive for optimal viewing on all screen sizes
 
 ## Local Development Setup
 
